@@ -6,9 +6,13 @@ These files make up the airfoil database that was used to model the NASA CRM in 
 
 
 
-
 References
 ---
-[1] Taylor, Jeffrey D., and Douglas F. Hunsaker. "Characterization of the Common Research Model Wing for Low-Fidelity Aerostructural Analysis." AIAA Scitech 2021 Forum. 2021.
+[1] Taylor, J. D. and Hunsaker, D., "Characterization of the Common Research Model Wing for Low-Fidelity Aerostructural Analysis." AIAA Scitech 2021 Forum. 2021.
 
-[2] Schoenfeld, Justice, and Taylor, Jeffrey D., Douglas F. Hunsaker. "Multi-Fidelity Predictions for Control Allocation on the NASA Ikhana Research Aircraft to Minimize Drag." AIAA SciTech 2022 Forum. 2023.
+[2] Schoenfeld, J., Taylor, J. D., and Hunsaker, D.F., "Multi-Fidelity Predictions for Control Allocation on the NASA Ikhana Research Aircraft to Minimize Drag." AIAA SciTech 2023 Forum. 2023.
+
+
+License
+---
+This repository is licensed under the MIT license. See LICENSE file for more information.
